@@ -61,3 +61,39 @@
      margin-right: 2rem;
  
  }
+
+ #search {
+
+    text-align: right;
+
+    float: right;
+
+    margin-top: 3rem;
+
+    padding-top: 2rem;
+
+    padding-right: 2rem;
+
+    flex-direction: column;
+
+    font-size: 1.5rem;
+
+    margin:auto;
+
+    max-width:400px;
+
+}
+#search-keyword {
+
+    height: 2.5rem;
+    
+    width: 17rem;
+
+    
+}
+
+#search-submit {
+
+    height: 2.5rem;
+
+}
