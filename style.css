@@ -1,3 +1,13 @@
 * {
     box-sizing: border-box;
 }
+
+.logo img {
+
+    display: block;
+
+    margin-right: auto;
+
+    margin-left: auto;
+
+}
