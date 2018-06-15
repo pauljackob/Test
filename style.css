@@ -226,3 +226,35 @@ h3:hover {
 
     margin: 0.5rem;
 }
+
+.nieuws {
+
+    display: flex;
+
+    flex-wrap:wrap; 
+
+    margin: 0;
+
+    padding: 0;
+}
+
+
+.ni-item:nth-child(n+1) {
+    width: 32%;
+}
+
+.ni-t {
+
+    text-decoration: none;
+
+    padding: 1rem;
+
+    margin: 0.5rem;
+}
+
+.more {
+
+    padding: 2rem;
+
+    margin: 2rem;
+}
