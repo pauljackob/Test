@@ -258,3 +258,64 @@ h3:hover {
 
     margin: 2rem;
 }
+
+.footer {
+
+    background-color: blue;
+
+    height: 22rem;
+
+    width: 100%;
+
+    padding-top: 3rem;
+
+    padding-left: 2rem;
+
+    padding-right: 5rem;
+    
+
+}
+
+span {
+
+    color: white;
+
+    font-size: 2rem;
+    
+}
+
+.fo-sp {
+
+    display: block;
+    
+    float: left;
+}
+
+.column {
+
+    display: block;
+
+    float: right;
+
+    text-align: left;
+     
+}
+
+
+.list-co {
+
+    text-decoration: none;
+
+    color: white;
+
+    list-style: none;
+
+    padding: 0;
+
+    margin-right: 2rem;
+}
+
+.column h2 {
+
+    color: white;
+}
