@@ -97,3 +97,89 @@
     height: 2.5rem;
 
 }
+
+.top {
+
+    background-image: url(http://res.cloudinary.com/dcmmxrxz6/image/upload/v1528999187/back.jpg);
+    
+    height: 22rem;
+}
+
+.list {
+    
+    position: absolute;
+
+    list-style-type: none;
+
+    text-align: left;
+
+    padding-top: 2rem;
+
+    height: 14rem;
+
+    width: 22rem;
+
+    background-color: white;
+
+    margin-left: 1rem;
+
+
+}
+
+.listo {
+
+    text-decoration: none;
+    
+    font-weight: bold;
+
+    color: rgb(68, 68, 235);
+
+    padding-bottom: 1rem;
+
+    margin-bottom: 1rem;
+
+   
+}
+
+.item {
+
+    text-decoration: none;
+    
+
+}
+
+.grid {
+
+    padding: 1rem;
+
+    margin: 0.5rem;
+}
+
+.grid:nth-child(n+1) {
+    width: 23%;
+}
+
+
+h2 {
+
+    color: blue;
+
+}
+
+p {
+
+    color: black;
+}
+
+.main {
+
+    display: flex;
+
+    flex-wrap:wrap; 
+
+    margin: 0;
+
+    padding: 0;
+
+    background-color: rgb(228, 222, 222);
+}
